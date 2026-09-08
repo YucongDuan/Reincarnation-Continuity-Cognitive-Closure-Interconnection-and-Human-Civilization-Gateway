@@ -1,6 +1,8 @@
 # DIKWP-SAMSARA 9.5
 
-**Reincarnation Continuity, Cognitive-Closure Interconnection, and Human-Civilization Gateway**
+Created by Yucong Duan (段玉聪).
+
+Reincarnation Continuity, Cognitive-Closure Interconnection, and Human-Civilization Gateway
 
 DIKWP-SAMSARA95 treats “reincarnation” neither as one automatically true doctrine nor as one automatically meaningless word. It compiles claims into a declared transition topology:
 
@@ -9,7 +11,7 @@ what returns → carrier/mechanism → preserved invariants → identity rule
 → consequence bearer → exit/completion condition → evidence/counterevidence
 ```
 
-The reference implementation compares **11 non-isomorphic continuity models** over **16 continuity dimensions**, preserves **36 source-bound religious/civilizational mappings and 144 native concepts** inside one DIKWP semantic space, and exposes a **22-lens plural gateway** for AI/agents interpreting contemporary humans.
+The reference implementation compares 11 non-isomorphic continuity models over 16 continuity dimensions, preserves 36 source-bound religious/civilizational mappings and 144 native concepts inside one DIKWP semantic space, and exposes a 22-lens plural gateway for AI/agents interpreting contemporary humans.
 
 ## Core distinction
 
